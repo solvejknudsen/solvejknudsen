@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi and welcome to my GitHub
+
+I'm a physicist and aspiring data scientist!
+
+- 🌱 I’m currently learning GitHub, VS Code, ML, APIs, Web scraping, SQL, ...
+- ⚡ I already know python, data visualization, simulation, statistics, advanced math, and more. 
+- 😄 In my sparetime, I like to fight with samurai swords (and have the black belt to prove it!)
+- 📫 How to reach me: solvejknudsen@gmail.com
+
 
 <!--
 **solvejknudsen/solvejknudsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
