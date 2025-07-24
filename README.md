@@ -3,8 +3,9 @@
 I'm a physicist and aspiring data scientist!
 
 - 🌱 I’m currently learning GitHub, VS Code, ML, APIs, Web scraping, SQL, ...
-- ⚡ I already know python, data visualization, simulation, statistics, advanced math, and more. 
-- 😄 In my sparetime, I like to fight with samurai swords (and have the black belt to prove it!)
+- 👣 I already know python, data visualization, simulation, statistics, advanced math, and more.
+- 🛶 My most resent sidequest was to (lern how to) host, make, and design a website for my friend..
+- 🥋 In my sparetime, I like to fight with samurai swords (and have the black belt to prove it!)
 - 📫 How to reach me: solvejknudsen@gmail.com
 
 
